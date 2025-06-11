@@ -87,6 +87,16 @@ With the rise of global news content, evaluating the semantic similarity of arti
 
 ---
 
+## 🏗️ Code Files
+
+| Filename           | Purpose                                                  |
+|--------------------|----------------------------------------------------------|
+| `run_train.py`     | Trains regression model on SBERT-encoded article pairs   |
+| `run_prediction.py`| Evaluates model on test dataset, computes MAE           |
+| `script_output.sh` | Automates dependency install + unzip + training + eval   |
+
+---
+
 ## 👨‍💻 Authors
 
 - **Rohith Adhitya Chinnannan Rajkumar**
